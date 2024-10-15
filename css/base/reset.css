@@ -56,9 +56,11 @@ img {
   gap: 15px;
 }
 .contacts-container p {
+  font-family: var(--font-family);
   color: var(--text-color);
 }
 .other-title {
+  font-family: var(--font-family);
   font-weight: 200;
   font-size: clamp(1.625rem, 2.674vw + 0.968rem, 3.375rem);
   line-height: clamp(2.275rem, 3.744vw + 1.355rem, 4.725rem);
@@ -73,4 +75,5 @@ img {
 .page-list {
   list-style: square;
   padding-left: 40px;
+  font-family: var(--font-family);
 }
