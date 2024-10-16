@@ -4,7 +4,7 @@
     "link2": "Nasze Usługi",
     "link3": "Ceny"
   },
-  "btnLink" : {
+  "btnLink": {
     "title": "Szczegóły"
   },
   "hero": {
@@ -25,7 +25,7 @@
     "desc4": "Komfortowe stanowiska"
   },
   "promotion": {
-    "mainTitile": "Promocje i oferty specjalne",
+    "mainTitle": "Promocje i oferty specjalne",
     "mainText": "W Sweet Bonanza zawsze mamy coś wyjątkowego dla naszych klientów! Skorzystaj z naszych promocji i specjalnych ofert, aby cieszyć się jeszcze większym komfortem i zabawą.",
 
     "cardTitle1": "Promocja grupowa",
@@ -39,6 +39,72 @@
 
     "cardTitle4": "Pierwsza godzina gry za darmo!",
     "cardDesc4": "Przy pierwszej wizycie w naszej kawiarenki internetowej otrzymujesz darmową godzinę gry. To idealna okazja, aby przetestować nasze stanowiska i poczuć atmosferę Sweet Bonanza!"
+  },
+  "aboutPage": {
+    "mainTitle": "O nas",
+
+    "cardTitle1": "Opis Zakładu",
+    "cardDesc1": "**Sweet Bonanza** to nowoczesna kawiarenka internetowa, stworzona z myślą o tych, którzy cenią sobie komfort zarówno podczas gry, jak i pracy. Naszym celem jest stworzenie przestrzeni, gdzie każdy może znaleźć swoje miejsce – zarówno gracz, jak i profesjonalista. Oferujemy szeroki wybór gier online, komfortowe stanowiska oraz przyjazną atmosferę, która sprzyja koncentracji i relaksowi.",
+
+    "cardTitle2": "Infrastruktura",
+    "cardDesc2": "Nasza kawiarenka wyposażona jest w najnowszy sprzęt komputerowy oraz szybki internet, który zapewnia płynną grę oraz efektywną pracę. Wygodne, ergonomiczne stanowiska oraz oddzielone strefy dla graczy i osób pracujących zapewniają komfort na najwyższym poziomie. Ponadto oferujemy klimatyzację i dostęp do gier na platformach takich jak Steam, Epic Games i inne.",
+
+    "cardTitle3": "Misja i Wartości",
+    "cardDesc3": "Nasza misja to stworzenie przestrzeni, gdzie każdy czuje się jak w domu, niezależnie od tego, czy przychodzi grać, czy pracować. Wierzymy, że każdy zasługuje na doskonałą obsługę oraz wyjątkowe warunki do działania. Dlatego dbamy o naszych klientów, zapewniając nie tylko nowoczesną infrastrukturę, ale i miłą atmosferę.",
+
+    "cardTitle4": "Nasze Usługi",
+    "item1": "Szybki i stabilny internet dla graczy oraz pracowników",
+    "item2": "Nowoczesne stanowiska komputerowe do gier i pracy",
+    "item3": "Duży wybór gier na popularnych platformach",
+    "item4": "Strefa relaksu z kawą i przekąskami",
+    "item5": "Możliwość wynajmu stanowisk na godziny lub długoterminowo",
+
+    "cardTitle5": "Dlaczego My?",
+    "cardDesc5": "Wyróżniamy się profesjonalnym podejściem do każdego klienta. Nasz zespół zawsze jest gotowy, aby pomóc i doradzić. Niezależnie od tego, czy jesteś tu, by grać, czy pracować – oferujemy przestrzeń, która wspiera Twoje potrzeby. Nasze zaangażowanie w jakość usług sprawia, że Sweet Bonanza to więcej niż zwykła kawiarenka internetowa – to miejsce, gdzie technologia spotyka się z komfortem."
+  },
+  "servicesPage": {
+    "mainTitle": "Nasze Usługi",
+
+    "cardTitle1": "Szybki Internet",
+    "cardDesc1": "Oferujemy szerokopasmowy, szybki i stabilny internet, idealny zarówno do intensywnej pracy, jak i grania online. Dzięki naszej sieci internetowej klienci mogą cieszyć się płynnym połączeniem bez opóźnień.",
+
+    "cardTitle2": "Stanowiska Gamingowe",
+    "cardDesc2": "Nasze stanowiska gamingowe są wyposażone w najnowsze komputery z wysoką wydajnością, idealne dla e-sportowców i miłośników gier online. Oferujemy gry na popularnych platformach, takich jak Steam, Epic Games i inne.",
+
+    "cardTitle3": "Misja i Wartości",
+    "cardDesc3": "Dla osób, które potrzebują miejsca do pracy, zapewniamy komfortowe biurka, ergonomiczną przestrzeń oraz ciche środowisko, które sprzyja koncentracji. Nasze stanowiska są wyposażone w monitory 4K i wygodne fotele, co zapewnia doskonałe warunki do pracy zdalnej.",
+
+    "cardTitle4": "Kawa i Przekąski",
+    "cardDesc4": "W naszej kawiarni możesz skosztować pysznej kawy oraz lekkich przekąsek, które umilą Ci czas podczas gry lub pracy. Oferujemy szeroki wybór napojów oraz zdrowe przekąski, które idealnie pasują na szybką przerwę!",
+
+    "cardTitle5": "Wynajem Stanowisk",
+    "cardDesc5": "Oferujemy możliwość wynajmu naszych stanowisk komputerowych na godziny lub długoterminowo. Niezależnie od tego, czy jesteś tu na godzinę, czy planujesz dłuższą sesję, mamy elastyczne pakiety, które spełnią Twoje potrzeby.",
+
+    "cardTitle6": "Usługi Premium",
+    "cardDesc6": "Dla najbardziej wymagających klientów oferujemy pakiety premium, które obejmują dostęp do najnowszych technologii VR, większą prywatność oraz dodatkowe usługi, takie jak rezerwacja stanowisk i dedykowane wsparcie techniczne."
+  },
+  "pricePage": {
+    "mainTitle": "Ceny",
+
+    "cardTitle1": "Taryfy godzinowe",
+    "item1": "1 godzina – 20 PLN",
+    "item2": "3 godziny – 50 PLN",
+    "item3": "5 godzin – 75 PLN",
+
+    "cardTitle2": "Pakiety miesięczne",
+    "item4": "1 miesiąc – 200 PLN",
+    "item5": "2 miesiące – 350 PLN",
+    "item6": "3 miesiące – 500 PLN",
+
+    "cardTitle3": "Wynajem Premium",
+    "item7": "Stanowiska VR – 100 PLN/h",
+    "item8": "Prywatne stanowisko – 50 PLN/h",
+
+    "cardTitle4": "Promocje",
+    "cardDesc4": "Skorzystaj z naszych promocji i zniżek:",
+    "item9": "Pierwsza godzina gry za darmo przy pierwszej wizycie",
+    "item10": "Zniżka 10% dla grup powyżej 4 osób",
+    "item11": "Zniżka dla stałych klientów – 15% na każdą kolejną wizytę"
   },
   "payment": {
     "mainTitle": "Opłata i dostawa",

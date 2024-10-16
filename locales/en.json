@@ -26,7 +26,7 @@
   "promotion": {
     "mainTitle": "Promotions and Special Offers",
     "mainText": "At Sweet Bonanza, we always have something special for our customers! Take advantage of our promotions and special offers to enjoy even more comfort and fun.",
-    
+
     "cardTitle1": "Group Discount",
     "cardDesc1": "Bring your friends! Get a 10% discount on all stations for groups of 4 or more.",
     "cardTitle2": "Regular Customer Discount",
@@ -35,6 +35,72 @@
     "cardDesc3": "Play without limits throughout the entire weekend for only 300 PLN! The perfect option for gamers who can’t get enough of their favorite games.",
     "cardTitle4": "First Hour of Gameplay Free!",
     "cardDesc4": "On your first visit to our internet café, get your first hour of gameplay for free. It's the perfect opportunity to test our stations and feel the Sweet Bonanza atmosphere!"
+  },
+  "aboutPage": {
+    "mainTitle": "About Us",
+
+    "cardTitle1": "Business Description",
+    "cardDesc1": "**Sweet Bonanza** is a modern internet café, created for those who value comfort both during gaming and work. Our goal is to create a space where everyone can find their place – whether you're a gamer or a professional. We offer a wide selection of online games, comfortable stations, and a friendly atmosphere that encourages both concentration and relaxation.",
+
+    "cardTitle2": "Infrastructure",
+    "cardDesc2": "Our café is equipped with the latest computer hardware and high-speed internet, ensuring smooth gaming and efficient work. Comfortable, ergonomic stations and separate zones for gamers and workers provide top-level comfort. We also offer air conditioning and access to games on platforms like Steam, Epic Games, and more.",
+
+    "cardTitle3": "Mission and Values",
+    "cardDesc3": "Our mission is to create a space where everyone feels at home, whether they come to play or work. We believe everyone deserves excellent service and exceptional conditions for productivity. That’s why we care for our clients by providing not only modern infrastructure but also a welcoming atmosphere.",
+
+    "cardTitle4": "Our Services",
+    "item1": "Fast and stable internet for gamers and workers",
+    "item2": "Modern computer stations for gaming and work",
+    "item3": "Wide selection of games on popular platforms",
+    "item4": "Relaxation zone with coffee and snacks",
+    "item5": "Option to rent stations by the hour or long-term",
+
+    "cardTitle5": "Why Us?",
+    "cardDesc5": "We stand out with a professional approach to every client. Our team is always ready to assist and advise. Whether you're here to play or work, we offer a space that supports your needs. Our commitment to quality service makes Sweet Bonanza more than just an internet café – it's a place where technology meets comfort."
+  },
+  "servicesPage": {
+    "mainTitle": "Our Services",
+
+    "cardTitle1": "Fast Internet",
+    "cardDesc1": "We offer broadband, fast, and stable internet, ideal for both intensive work and online gaming. Thanks to our network, clients can enjoy smooth connections without delays.",
+
+    "cardTitle2": "Gaming Stations",
+    "cardDesc2": "Our gaming stations are equipped with the latest high-performance computers, ideal for e-sports players and online game enthusiasts. We offer games on popular platforms like Steam, Epic Games, and more.",
+
+    "cardTitle3": "Mission and Values",
+    "cardDesc3": "For those who need a place to work, we provide comfortable desks, ergonomic spaces, and a quiet environment that fosters concentration. Our stations are equipped with 4K monitors and comfortable chairs, ensuring excellent conditions for remote work.",
+
+    "cardTitle4": "Coffee and Snacks",
+    "cardDesc4": "In our café, you can enjoy delicious coffee and light snacks to make your time more enjoyable during gaming or work. We offer a wide selection of beverages and healthy snacks that are perfect for a quick break!",
+
+    "cardTitle5": "Station Rental",
+    "cardDesc5": "We offer the option to rent our computer stations by the hour or long-term. Whether you're here for an hour or planning a longer session, we have flexible packages to meet your needs.",
+
+    "cardTitle6": "Premium Services",
+    "cardDesc6": "For the most demanding clients, we offer premium packages that include access to the latest VR technologies, more privacy, and additional services such as station reservations and dedicated technical support."
+  },
+  "pricePage": {
+    "mainTitle": "Prices",
+
+    "cardTitle1": "Hourly Rates",
+    "item1": "1 hour – 20 PLN",
+    "item2": "3 hours – 50 PLN",
+    "item3": "5 hours – 75 PLN",
+
+    "cardTitle2": "Monthly Packages",
+    "item4": "1 month – 200 PLN",
+    "item5": "2 months – 350 PLN",
+    "item6": "3 months – 500 PLN",
+
+    "cardTitle3": "Premium Rental",
+    "item7": "VR Stations – 100 PLN/h",
+    "item8": "Private Station – 50 PLN/h",
+
+    "cardTitle4": "Promotions",
+    "cardDesc4": "Take advantage of our promotions and discounts:",
+    "item9": "First hour of gameplay free on your first visit",
+    "item10": "10% discount for groups of 4 or more people",
+    "item11": "15% discount for regular customers on each subsequent visit"
   },
   "payment": {
     "mainTitle": "Payment and Delivery",

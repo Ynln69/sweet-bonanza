@@ -135,7 +135,83 @@
     <main>
       <section class="hero">
         <div class="container">
-          <h1 class="hero-title">Twoje miejsce do gry i relaksu online!</h1>
+          <h1 class="hero-title" data-translate="hero.homeTitle">
+            Twoje miejsce do gry i relaksu online!
+          </h1>
+        </div>
+      </section>
+
+      <section class="our-services section">
+        <div class="container">
+          <h2 data-translate="servicesPage.mainTitle">Nasze Usługi</h2>
+
+          <!-- Szybki Internet -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle1">Szybki Internet</h3>
+            <p data-translate="servicesPage.cardDesc1">
+              Oferujemy szerokopasmowy, szybki i stabilny internet, idealny
+              zarówno do intensywnej pracy, jak i grania online. Dzięki naszej
+              sieci internetowej klienci mogą cieszyć się płynnym połączeniem
+              bez opóźnień.
+            </p>
+          </div>
+
+          <!-- Stanowiska Gamingowe -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle2">
+              Stanowiska Gamingowe
+            </h3>
+            <p data-translate="servicesPage.cardDesc2">
+              Nasze stanowiska gamingowe są wyposażone w najnowsze komputery z
+              wysoką wydajnością, idealne dla e-sportowców i miłośników gier
+              online. Oferujemy gry na popularnych platformach, takich jak
+              Steam, Epic Games i inne.
+            </p>
+          </div>
+
+          <!-- Strefa Pracy -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle3">Strefa Pracy</h3>
+            <p data-translate="servicesPage.cardDesc3">
+              Dla osób, które potrzebują miejsca do pracy, zapewniamy komfortowe
+              biurka, ergonomiczną przestrzeń oraz ciche środowisko, które
+              sprzyja koncentracji. Nasze stanowiska są wyposażone w monitory 4K
+              i wygodne fotele, co zapewnia doskonałe warunki do pracy zdalnej.
+            </p>
+          </div>
+
+          <!-- Kawa i Przekąski -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle4">Kawa i Przekąski</h3>
+            <p data-translate="servicesPage.cardDesc4">
+              W naszej kawiarni możesz skosztować pysznej kawy oraz lekkich
+              przekąsek, które umilą Ci czas podczas gry lub pracy. Oferujemy
+              szeroki wybór napojów oraz zdrowe przekąski, które idealnie pasują
+              na szybką przerwę.
+            </p>
+          </div>
+
+          <!-- Wynajem Stanowisk -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle5">Wynajem Stanowisk</h3>
+            <p data-translate="servicesPage.cardDesc5">
+              Oferujemy możliwość wynajmu naszych stanowisk komputerowych na
+              godziny lub długoterminowo. Niezależnie od tego, czy jesteś tu na
+              godzinę, czy planujesz dłuższą sesję, mamy elastyczne pakiety,
+              które spełnią Twoje potrzeby.
+            </p>
+          </div>
+
+          <!-- Usługi Premium -->
+          <div class="service-section">
+            <h3 data-translate="servicesPage.cardTitle6">Usługi Premium</h3>
+            <p data-translate="servicesPage.cardDesc6">
+              Dla najbardziej wymagających klientów oferujemy pakiety premium,
+              które obejmują dostęp do najnowszych technologii VR, większą
+              prywatność oraz dodatkowe usługi, takie jak rezerwacja stanowisk i
+              dedykowane wsparcie techniczne.
+            </p>
+          </div>
         </div>
       </section>
     </main>
@@ -217,6 +293,9 @@
         </nav>
       </div>
     </footer>
-    <script src="./js/produt-en-page.js"></script>
+
+    <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script>
+    <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
+    <script type="module" src="./js/translator.js"></script>
   </body>
 </html>

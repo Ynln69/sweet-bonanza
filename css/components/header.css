@@ -74,7 +74,6 @@
 }
 
 .lang-btn {
-  border-radius: 100px;
   padding: 12px 14px;
   border: none;
   background-color: transparent;
@@ -84,10 +83,8 @@
   font-size: 16px;
   &:hover,
   &:focus {
-    border-radius: 100px;
     padding: 12px 14px;
-
-    background-color: var(--brand-color);
-    color: var(--second-color);
+    background-color: var(--btn-color);
+    color: var(--section-bg);
   }
 }
